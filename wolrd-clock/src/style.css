@@ -1,0 +1,27 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .timezone {
+    margin-top: 1rem;
+  }
+  
+  .selectClock {
+    margin-top: 1rem;
+  }
+  
+  .clockImgBorder {
+    display: flex;
+  }
+  
+  .clockImg {
+    margin: 1.2rem;
+  }
+  
+  .country {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  
